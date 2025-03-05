@@ -90,7 +90,6 @@ public class KontoGUI {
         });
 
         // Ansicht Button
-
         AnsichtsBtn.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
